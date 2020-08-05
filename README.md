@@ -1,6 +1,6 @@
 ### Hi there, I'm Dung 👋
 
-## I'm a self-taught developer!
+## I'm a business student and a self-taught developer!
 - 🔭 I’m currently taking a Full-stack program at [Integrify][website]!
 - 🌱 I’m currently learning everything 🤣
 - 🙌 I’m looking to make my hands dirty in web development projects
