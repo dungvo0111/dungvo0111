@@ -39,6 +39,16 @@
 
 ---
 
+### 📌 Latest projects:
+
+- [Online Library](https://online-library123.herokuapp.com)
+- [Countries Web App](https://countries123.netlify.app)
+- [Personal Porfolio](https://github.com/dungvo0111/chat-app-ver1)
+- [Social Media App](https://socialapp-bf975.firebaseapp.com)
+- [E-Commerce Website](https://shopwebtest.herokuapp.com)
+
+---
+
 <img align="left" alt="Dung's Github Stats" src="https://github-readme-stats.vercel.app/api?username=dungvo0111&show_icons=true&hide_border=true&count_private=true" />
 
 [website]: https://www.integrify.io
