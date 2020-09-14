@@ -11,6 +11,7 @@
 
 [<img align="left" alt="dung vo | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="dung vo | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+[<img align="left" alt="dung vo | Porfolio" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][portfolio]
 
 <br />
 
@@ -40,13 +41,13 @@
 ---
 
 ### 📌 Latest projects:
-
+- [Integrify Website Refresh](https://www.integrify.io/en)
 - [Online Library](https://online-library123.herokuapp.com)
 - [Countries Web App](https://countries123.netlify.app)
-- [Personal Porfolio](https://github.com/dungvo0111/chat-app-ver1)
+- [Personal Porfolio](https://portfolio-template123.netlify.app/)
 - [Social Media App](https://socialapp-bf975.firebaseapp.com)
 - [E-Commerce Website](https://shopwebtest.herokuapp.com)
-
+- [Chat App](https://github.com/dungvo0111/chat-app-ver1)
 ---
 
 <img align="left" alt="Dung's Github Stats" src="https://github-readme-stats.vercel.app/api?username=dungvo0111&show_icons=true&hide_border=true&count_private=true" />
@@ -54,4 +55,4 @@
 [website]: https://www.integrify.io
 [linkedin]: https://www.linkedin.com/in/dungvo11
 [facebook]: https://www.facebook.com/dungvo0111
-
+[portfolio]: https://dungvo0111.github.io/
