@@ -4,7 +4,7 @@
 - 🔭 I’m currently taking a Full-stack program at [Integrify][website]!
 - 🌱 I’m currently learning everything 🤣
 - 🙌 I’m looking to make my hands dirty in web development projects
-- 🥅 2020 Goals: Land a job related to web development
+- 🥅 2020 Goals: Learn new techs and build more user-friendly web apps
 - ⚡ Fun fact: I play basketball 🏀 and a gym rat 🐀
 
 ### Connect with me:
