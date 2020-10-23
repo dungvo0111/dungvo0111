@@ -48,6 +48,8 @@
 - [Social Media App](https://socialapp-bf975.firebaseapp.com)
 - [E-Commerce Website](https://shopwebtest.herokuapp.com)
 - [Chat App](https://github.com/dungvo0111/chat-app-ver1)
+
+#### At the moment, I'm doing two internal projects at [Integrify][website]: online test app (I'm the current team lead) and internal user management system. Related techs are on frontend side: React, TypeScript, Redux-Saga, Material-UI, Sass, Formik.
 ---
 
 <img align="left" alt="Dung's Github Stats" src="https://github-readme-stats.vercel.app/api?username=dungvo0111&show_icons=true&hide_border=true&count_private=true" />
