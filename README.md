@@ -1,10 +1,10 @@
 ### Hi there, I'm Dung 👋
 
 ## I'm a business student and a full-stack developer!
-- 🔭 I’m currently taking a Full-stack program at [Integrify][website]!
+- 🔭 I’m currently a Front-end developer at RhombIT
 - 🌱 I’m currently learning everything 🤣
 - 🙌 I’m looking to make my hands dirty in web development projects
-- 🥅 2020 Goals: Learn new techs and build more user-friendly web apps
+- 🥅 2021 Goals: Learn new techs and build more user-friendly web apps
 - ⚡ Fun fact: I play basketball 🏀 and a gym rat 🐀
 
 ### Connect with me:
@@ -49,12 +49,10 @@
 - [E-Commerce Website](https://shopwebtest.herokuapp.com)
 - [Chat App](https://github.com/dungvo0111/chat-app-ver1)
 
-#### At the moment, I'm doing two internal projects at [Integrify][website]: online test app (I'm the current team lead) and internal user management system. Related techs are on frontend side: React, TypeScript, Redux-Saga, Material-UI, Sass, Formik.
 ---
 
 <img align="left" alt="Dung's Github Stats" src="https://github-readme-stats.vercel.app/api?username=dungvo0111&show_icons=true&hide_border=true&count_private=true" />
 
-[website]: https://www.integrify.io
 [linkedin]: https://www.linkedin.com/in/dungvo11
 [facebook]: https://www.facebook.com/dungvo0111
 [portfolio]: https://dungvo0111.github.io/
